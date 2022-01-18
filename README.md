@@ -8,3 +8,5 @@
 5) Allows install of the appx/uwp via CLI or external language to get around Group Policy which may limit a double-click install of an appx/uwp
 
 Also has a Windows balloon notification that says that it ran with a customizable title and text.
+
+The alternate script is a different approach to adjusting the Registry. Both options will work.
